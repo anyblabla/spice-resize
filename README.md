@@ -18,8 +18,8 @@ _Dans le répertoire "spice-resize-main" obtenu, ouvrez une instance "Terminal" 
 
 </br>
 
-- **chmod +x spice-resize.sh**
-- **sudo ./spice-resize.sh**
+- **chmod +x run-resize.sh**
+- **sudo ./run-resize.sh**
 
 </br>
 
