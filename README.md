@@ -1,29 +1,35 @@
 # spice-resize
-Automatic resizing "spice-vdagent" with "virt-viewer/spicy" for Xfce/Mate.
+_Automatic resizing "spice-vdagent" with "virt-viewer/spicy" for Xfce/Mate._
 
-Redimensionnement automatique "spice-vdagent" avec "virt-viewer/spicy" pour Xfce/Mate.
+_Redimensionnement automatique "spice-vdagent" avec "virt-viewer/spicy" pour Xfce/Mate._
+
+</br>
 
 # Installation
-Download the three files...
+_Download and unzip the archive ;_
 
-Télécharger les trois fichiers...
+_Télécharger et décompresser l'archive ;_
 
-- 50-x-resize.rules
-- run-resize.sh
-- x-resize
+</br>
 
-Then, at the location of the downloaded files, open a "Terminal" instance and use this command...
+_In the resulting "spice-resize" directory, open a "Terminal" instance and use the following command..._
 
-Ensuite, à l'emplacement des fichiers téléchargé, ouvrez une instance "Terminal" et utilisez cette commande...
+_Dans le répertoire "spice-resize" obtenu, ouvrez une instance "Terminal" et utilisez la commande suivante..._
 
-**sudo ./spice-resize.sh**
+</br>
+
+- **sudo ./spice-resize.sh**
+
+</br>
 
 # Demonstration/Démonstration
 https://peertube-blablalinux.be/w/wgTSt8X9MpSFrpDuMjyXjj
 
-# Noticed/Remarque
-In the demo video accessible via the link above, all steps are performed manually.
-The “spice-resize.sh” script is there so that everything happens automatically.
+</br>
 
-Dans la vidéo de démonstration accessible via le lien ci-dessus, toutes les étapes sont effectuées manuellement.
-Le script "spice-resize.sh" est justement là pour que tout s'effectue automatiquement.
+# Noticed/Remarque
+_In the demo video accessible via the link above, all steps are performed manually._
+_The “spice-resize.sh” script is there so that everything happens automatically._
+
+_Dans la vidéo de démonstration accessible via le lien ci-dessus, toutes les étapes sont effectuées manuellement._
+_Le script "spice-resize.sh" est justement là pour que tout s'effectue automatiquement._
