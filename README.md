@@ -4,7 +4,19 @@ Automatic resizing "spice-vdagent" with "virt-viewer/spicy" for Xfce/Mate.
 Redimensionnement automatique "spice-vdagent" avec "virt-viewer/spicy" pour Xfce/Mate.
 
 # Installation
-sudo ./spice-resize.sh
+Download the three files...
+
+Télécharger les trois fichiers...
+
+- 50-x-resize.rules
+- run-resize.sh
+- x-resize
+
+Then, at the location of the downloaded files, open a "Terminal" instance and use this command...
+
+Ensuite, à l'emplacement des fichiers téléchargé, ouvrez une instance "Terminal" et utilisez cette commande...
+
+**sudo ./spice-resize.sh**
 
 # Demonstration/Démonstration
 https://peertube-blablalinux.be/w/wgTSt8X9MpSFrpDuMjyXjj
