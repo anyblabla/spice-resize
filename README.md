@@ -12,9 +12,9 @@ _Télécharger et décompresser l'archive ;_
 
 </br>
 
-_In the resulting "spice-resize" directory, open a "Terminal" instance and use the following command..._
+_In the resulting "spice-resize-main" directory, open a "Terminal" instance and use the following command..._
 
-_Dans le répertoire "spice-resize" obtenu, ouvrez une instance "Terminal" et utilisez la commande suivante..._
+_Dans le répertoire "spice-resize-main" obtenu, ouvrez une instance "Terminal" et utilisez la commande suivante..._
 
 </br>
 
