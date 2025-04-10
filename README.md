@@ -24,7 +24,7 @@ _Dans le répertoire "spice-resize-main" obtenu, ouvrez une instance "Terminal" 
 </br>
 
 # Demonstration/Démonstration
-https://peertube-blablalinux.be/w/wgTSt8X9MpSFrpDuMjyXjj
+- https://peertube-blablalinux.be/w/wgTSt8X9MpSFrpDuMjyXjj
 
 </br>
 
